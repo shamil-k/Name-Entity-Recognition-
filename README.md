@@ -40,6 +40,7 @@ TESTING IN LOCAL/API
 To do the test testing we need to run the clientApp.py and after that web server will start at http://0.0.0.0:5000/
 
 Enter the Text and click on Predict button.
+<img width="1439" alt="Screenshot 2021-05-27 at 12 57 47 PM" src="https://user-images.githubusercontent.com/55822384/119783803-38889800-beeb-11eb-9e21-c0da986ec52e.png">
 
 
 Predictions will be shown in the result box. 
