@@ -46,6 +46,8 @@ Enter the Text and click on Predict button.
 Predictions will be shown in the result box. 
 
 CONCLUSION
+
+
 Here we successfully performed Named Entity Recognition on the given dataset.
 COMPARISION
 More data or better larger dataset can be used to build a better model. We can also try out better pre trained model with fine tuning to increase the performance.
